@@ -1,4 +1,4 @@
-## Hi there, I am Azzy, or as I am called in the interwebs, Float, or Floating Skies 👋
+## Hiyaah! there I am, I'm called Azzy, or as I am called in the interwebs, Float, or FloatingSkies 
 
 - 🔭 I am currently working on an few things related to design and Linux and Python development of projects
 - 🌱 I am currently learning Python and HTML/CSS and doing my own websites
