@@ -1,7 +1,6 @@
 ## Sobre eu mesmo
 
 - 🤔 Sempre explorando novas ideias que ajudam pessoas comuns como eu e você.
-- 🎓 Estudando Informatica no Instituto Federal do meu estado.
 - 💼 Estou disponivel como designer e desenvolvedor web, todos freelance.
 - 🌱 Estou Aprendendo mais sobre HTML e CSS e Javascript.
 
