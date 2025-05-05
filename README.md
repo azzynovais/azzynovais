@@ -1,19 +1,15 @@
-## Sobre eu mesmo
+"What does the fox says?"
 
-- 🤔 Sempre explorando novas ideias que ajudam pessoas comuns como eu e você.
-- 💼 Estou disponivel como designer e desenvolvedor web, todos freelance.
-- 🌱 Estou Aprendendo mais sobre HTML e CSS e Javascript.
+## Minhas Habilidades e Ferramentas
 
-## Minhas Habilidades
-
-**Aplicações e dados**
+**Linguagens**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**DevOps**
+**Aplicações**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
