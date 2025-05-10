@@ -1,4 +1,4 @@
-"What does the jackal says?"
+"What does the riolu says?"
 
 ## Minhas Habilidades e Ferramentas
 
