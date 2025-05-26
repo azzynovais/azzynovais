@@ -1,4 +1,4 @@
-"What does the riolu says?"
+Eu estou focado em tecnologias web e design, obrigado por visitar
 
 ## Minhas Habilidades e Ferramentas
 
