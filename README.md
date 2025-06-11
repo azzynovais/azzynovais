@@ -1,31 +1,28 @@
-Eu estou focado em tecnologias web e design, obrigado por visitar
 
-## Minhas Habilidades e Ferramentas
+## Hiyaah!
 
-**Linguagens**
+A bit about me:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🍒 In the moment I am developing with HTML5, CSS, JS, Python, MySQL and Lua
 
-**Aplicações**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 📫 Como me encontrar:  
+![Contato-email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+[![Contato-instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumacaubas/)
 
-**Ferramentas de desenvolvimento**
+## Minhas estatísticas gerais
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent&locale=pt-br)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+## Commit History
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=azzynovais&theme=transparent&locale=pt-br)
 
-<br/>
+### Linguagens que estou desenvolvendo
 
-<a href="https://github.com/azzynovais" title="Perfil do Azzy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azzynovais&theme=dracula&show_icons=true" />
-</a>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)   
 
-## Onde me encontrar
-[![Gmail Badge](https://img.shields.io/badge/-floatingfloatskies@protonmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:floatingfloatskies@protonmail.com)](mailto:floatingloatskies@protonmail.com)
-[![GitHub](https://img.shields.io/github/followers/azzynovais?label=follow&style=social)](https://github.com/azzynovais)
+![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azzynovais&theme=transparent&locale=pt-br)
+
+##### Well, I am just a normal guy that likes design and skeuomorphic desigm, that's all
