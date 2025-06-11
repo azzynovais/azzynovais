@@ -5,11 +5,6 @@ A bit about me:
 
 - 🍒 In the moment I am developing with HTML5, CSS, JS, Python, MySQL and Lua
 
-
-- 📫 How to find me:  
-![Contato-email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-[![Contato-instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eumacaubas/)
-
 ## Main stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent&locale=pt-br)
 
