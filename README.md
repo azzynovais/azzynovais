@@ -1,9 +1,12 @@
 
-## Hiyaah!
-
-A bit about me:
-
-- 🍒 In the moment I am developing with HTML5, CSS, JS, Python, MySQL and Lua
+## Sobre mim!:
+🍒 Heya, sou programador back-end com Python e Javascript e front-end com HTML e CSS, estou há 1 ano e meio
+                aprendendo e trabalhando com programação, tambem faço design e UX/UI, que ainda não sou formado, por
+                agora.
+Como mencionado, mexo com Python e Javascript, HTML, CSS, alem de usar Canva e Photopea e GIMP e Inkscape
+                para Design, alem de Figma para prototipação e formulação de websites.
+Estudo no Instituto Federal de Rondônia em um Campus da minha cidade, faço o curso de Tecnico de
+                Informatica, estou no segundo ano do ensino medio
 
 ## Main stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent&locale=pt-br)
@@ -20,4 +23,4 @@ A bit about me:
 
 ![Main Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azzynovais&theme=transparent&locale=pt-br)
 
-##### Well, I am just a normal guy that likes design and skeuomorphic desigm, that's all
+##### Sou apenas um cara normal!
