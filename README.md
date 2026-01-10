@@ -7,11 +7,11 @@
 
 ---
 
-Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transforma ideias em experiências bombasticas. Crio websites de forma igual ao Modo Criativo, designs inkriveis e projetos de código para qualquer criatura desprovida de bom senso que cruze meu caminho.
+Sou um **estudante de T.I, mago dos computadores**, atualmente estudo no Instituto Federal de Rondônia, do meu querido estado
 
 ---
 
-## Arsenal Belico (Habilidades Técnicas)
+## \Habilidades
 
 <div align="center">
 
@@ -24,31 +24,9 @@ Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transfo
 
 ---
 
-## 🌟 Dons Pessoais
+## Conecte-se Comigo
 
-| Poder | Descrição |
-|-------|-----------|
-| ⚡ **Proatividade** | Sempre à frente do concorrente |
-| 🎨 **Criatividade** | Habilidades que transcendem o normal |
-| 🔮 **Curiosidade** | Eternamente explorando novas tecnologias e designs |
-| 🚀 **Aprendizado Veloz** | Absorvo conhecimento de forma veloz |
-
----
-
----
-
-## 🎯 O que Posso Fazer Por Você
-
-✨ **Websites** - Desde  pages até aplicações web
-🎨 **Design UX/UI** - Interfaces e experiências que marcam
-🎮 **Joguinhos e Projetos** - Pequenos projetos lúdicos e interativos
-💻 **Código Para Qualquer situação** - Soluções técnicas para qualquer desafio
-
----
-
-## 🔗 Conecte-se Comigo
-
-Explore meus repositórios e trabalhos abaixo. Este é apenas o começo da jornada...
+Explore meus repositórios e trabalhos abaixo. Este é apenas o começo da minha jornada...
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/azzynovais)
 
