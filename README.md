@@ -37,14 +37,6 @@ Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transfo
 
 ---
 
-## 📊 Estatísticas do Grimório
-
-<div align="center">
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent&card_width=400)
-
-</div>
-
 ---
 
 ## 🎯 O que Posso Fazer Por Você
