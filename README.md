@@ -1,20 +1,73 @@
-## O nome é Azzy Novais, prazer te conhecer
+```
+╔═══════════════════════════════════════════════════════════╗
+║                  AZZY NOVAIS                              ║
+║              Mago dos computadores & Designer UX/UI       ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-### Desenvolvedor Web e Designer e UX/UI designer.
-##### Desenvolvo qualquer sites e designs, joguinhos, e codigos para qualquer um
-#### Habilidades Tecnicas
-![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)    ![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## Bem-vindo a minha torre
 
-![Azzy GitHub stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent)
+Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transforma ideias em experiências bombasticas. Crio websites de forma igual ao Modo Criativo, designs inkriveis e projetos de código para qualquer criatura desprovida de bom senso que cruze meu caminho.
 
-#### Habilidades interpessoais 
-- Proatividade 
-- Habilidades e criatividade
-- Curioso a tecnologias novas e designs novos
-- Aprendizado Rapido 
+---
 
+## Arsenal Belico (Habilidades Técnicas)
 
-### Veja tambem os meus trabalhos e repositorios abaixo também. Adios
-![WaveSmileGIF](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 🌟 Dons Pessoais
+
+| Poder | Descrição |
+|-------|-----------|
+| ⚡ **Proatividade** | Sempre à frente do concorrente |
+| 🎨 **Criatividade** | Habilidades que transcendem o normal |
+| 🔮 **Curiosidade** | Eternamente explorando novas tecnologias e designs |
+| 🚀 **Aprendizado Veloz** | Absorvo conhecimento de forma veloz |
+
+---
+
+## 📊 Estatísticas do Grimório
+
+<div align="center">
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=transparent&card_width=400)
+
+</div>
+
+---
+
+## 🎯 O que Posso Fazer Por Você
+
+✨ **Websites Mágicos** - Desde  pages até aplicações web
+🎨 **Design UX/UI** - Interfaces e experiências que marcam
+🎮 **Joguinhos e Projetos** - Pequenos projetos lúdicos e interativos
+💻 **Código Para Qualquer situação** - Soluções técnicas para qualquer desafio
+
+---
+
+## 🔗 Conecte-se Comigo
+
+Explore meus repositórios e trabalhos abaixo. Este é apenas o começo da jornada...
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/azzynovais)
+
+---
+
+<div align="center">
+
+![Wave](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
+
+**Adios, viajante**
+
+</div>
