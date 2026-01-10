@@ -1,7 +1,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
-║                  FLOAT/CHACALNIX/SKY                      ║
-║              Mago dos computadores & Designer UX/UI       ║
+║                  FLOAT/SKY                                ║
+║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -41,7 +41,7 @@ Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transfo
 
 ## 🎯 O que Posso Fazer Por Você
 
-✨ **Websites Mágicos** - Desde  pages até aplicações web
+✨ **Websites** - Desde  pages até aplicações web
 🎨 **Design UX/UI** - Interfaces e experiências que marcam
 🎮 **Joguinhos e Projetos** - Pequenos projetos lúdicos e interativos
 💻 **Código Para Qualquer situação** - Soluções técnicas para qualquer desafio
@@ -60,6 +60,6 @@ Explore meus repositórios e trabalhos abaixo. Este é apenas o começo da jorna
 
 ![Wave](https://github.com/user-attachments/assets/d4e5bff5-1deb-4829-9a1f-544a8298f50b)
 
-**Adios, viajante**
+**Adios**
 
 </div>
