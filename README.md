@@ -7,7 +7,7 @@
 
 ---
 
-Sou um **estudante de T.I, mago dos computadores**, atualmente estudo no Instituto Federal de Rondônia, do meu querido estado
+Sou um **estudante de T.I e Mago dos computadores**, atualmente estudo no Instituto Federal de Rondônia, do meu querido estado
 
 ---
 
