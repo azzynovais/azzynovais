@@ -7,8 +7,6 @@
 
 ---
 
-## Bem-vindo a minha torre
-
 Sou um **Desenvolvedor Web, Designer UX/UI e mago dos computadores** que transforma ideias em experiências bombasticas. Crio websites de forma igual ao Modo Criativo, designs inkriveis e projetos de código para qualquer criatura desprovida de bom senso que cruze meu caminho.
 
 ---
