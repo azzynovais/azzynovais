@@ -28,5 +28,5 @@ Dizem que crianças aprendem a falar com 1 ano. Eu? Aos 3 eu já estava brigando
 
 ### 📊 GitHub Stats (Onde a mágica acontece)
 
-![Stats do Float](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical)
+![Stats do Float](https://github-readme-stats.vercel.app/api?username=floatingskies&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatingskies&layout=compact&theme=radical)
