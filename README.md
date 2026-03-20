@@ -1,32 +1,39 @@
-# Float (aka Sky / Shato)
-
-`Alumni do IFRO` | `Full-Stack Dev` | `UX/UI Designer` | `Mago dos computadores`
+# Float (Sky / Shato)
+`Alumni IFRO` | `Full-Stack Developer` | `UX/UI Designer` | `Linux & Infrastructure`
 
 ---
 
 ### Sobre mim
-Dizem que crianças aprendem a falar com 1 ano. Eu? Aos 3 eu já estava brigando com o sistema operacional e jogando CS 1.6 e IGI 2. Sou o cara que você chama quando tem que configurar as coisas chatas que ninguem quer
+Profissional com sólida base técnica em hardware e sistemas operacionais, focado em resolver desafios de infraestrutura e usabilidade. Atualmente, atuo no suporte e configuração de ambientes de desenvolvimento, garantindo que a base tecnológica seja estável e eficiente para a produção de software.
 
-* **IFRO student:** Sobrevivendo a base de esperança e fé e muito Taiti.
-* **Tech-native:** Mexendo em máquinas desde que os monitores eram de tubo.
-* **User-centric:** Faço interfaces que até sua avó ou seu pai entenderia (ou quase).
-* **Zueira-driven Development:** Se o código não tiver um comentário engraçado, ele nem compila.
-* **Furro:** Sim, eu sou furro
+* **Educação:** Egresso do Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO).
+* **Infraestrutura:** Experiência em provisionamento de estações de trabalho e administração de servidores Linux (Debian/Ubuntu Server).
+* **Design:** Desenvolvimento de interfaces centradas no usuário utilizando ferramentas de código aberto e padrões de mercado.
+* **Desenvolvimento:** Foco em tecnologias Web (JavaScript/Node.js) com ênfase em arquitetura funcional.
 
 ---
 
-###  Minhas skills (duh)
+### Competências Técnicas
 
-| Habilidade | Linguagem/ferramenta |
+| Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **Web Programming** | Javascript/HTML/CSS
-| **UX/UI Design** | Figma / GIMP / Inkscape / Penpot |
-| **Configuração e Instalação** | "Já tentou reiniciar?" | 
-| **Shitposting** | Discord / Stoat / Telegram / What's App |
+| **Desenvolvimento Web** | JavaScript, HTML5, CSS3, Node.js |
+| **Design (UI/UX)** | Figma, Penpot, GIMP, Inkscape |
+| **Sistemas & Infra** | Administração Debian/Ubuntu, Shell Script, Manutenção de Hardware |
+| **Ferramentas de Versão** | Git, GitHub |
 
 ---
 
-### 📊 GitHub Stats (Onde a mágica acontece)
+### Estatísticas do GitHub
 
-![Stats do Float](https://github-readme-stats.vercel.app/api?username=floatingskies&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatingskies&layout=compact&theme=radical)
+![Stats do Float](https://github-readme-stats.vercel.app/api?username=floatingskies&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floatingskies&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### Contato
+Estou disponível para colaborações em projetos de desenvolvimento, automação de infraestrutura ou design de interface.
+
+* **Telegram/Discord:** @floatingskies
+* **Localização:** Rondônia, Brasil
