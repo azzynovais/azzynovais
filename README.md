@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: **VSCode Insiders, Jetbrains IDEs, Packet Tracer.**
+  💼 Ferramentas: VSCode Insiders, Jetbrains IDEs, Packet Tracer.
 </p>
 
 <p align="left">
