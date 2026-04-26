@@ -35,9 +35,8 @@ sistemas reais funcionam, do yaml, node, ao deploy em produção.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
 - Versionamento com **Git & GitHub**
-- Containerização com **Docker**
+- Containerização com **Docker & Podman**
 - CI/CD básico com **GitHub Actions**
-- Servidores web com **Nginx / Apache**
 - Linha de comando **Linux/Bash**
 
 ---
