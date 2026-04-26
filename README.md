@@ -78,4 +78,4 @@ sistemas reais funcionam, do yaml, node, ao deploy em produção.
 
 ---
 
-> *"Qualquer tecnologia suficientemente avançada é indistinguível da magia."* — Arthur C. Clarke
+> *"Qualquer tecnologia suficientemente avançada é indistinguível da magia."* - Arthur C. Clarke
