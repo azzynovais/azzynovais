@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header com efeito typing -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:30363e&height=220&section=header&text=Float&fontSize=80&fontColor=58a6ff&fontAlignY=35&desc=Estudante%20de%20TI%20%C2%B7%20IFRO%20%7C%20Estagi%C3%A1rio%20FSLab%20%7C%20DevOps%20%20%26%20Infra&descSize=18&descAlignY=55&animation=fadeIn" />
-
 <!-- Typing SVG animado -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%96%A5%EF%B8%8F+Web+Dev+%E2%87%84+DevOps+%E2%87%84+Infra+%E2%87%84+Redes;%E2%98%95+Caf%C3%A9+%C3%A9+o+combust%C3%ADvel+%E2%87%A8+Automa%C3%A7%C3%A3o+%C3%A9+o+motor;%22Qualquer+tecnologia+suficientemente+avan%C3%A7ada+%C3%A9+indistingu%C3%ADvel+da+magia%22" alt="Typing SVG" />
