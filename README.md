@@ -1,11 +1,11 @@
-# Olá, eu sou o Float (Azzy Novais)
+# Heya, eu sou o Float (Azzy Novais)
 
 ---
 
 ### 🛠️ No que eu trabalho
 
 * **Web Development:** Especialista em ecossistema JavaScript, criando aplicações robustas com **Node.js** no backend e interfaces dinâmicas com **React** no frontend.
-* **Game Development:** Transformando ideias em mecânicas e mundos interativos.
+* **Game Development:**  ideias em mecânicas e mundos interativos.
 * **Infrastructure & Design:** Entusiasta de redes (porque entender como os dados viajam importa) e UI/UX focado em usabilidade.
 
 ---
@@ -29,9 +29,4 @@
 ---
 
 ### 📫 Como me encontrar
-
-* **LinkedIn:** [/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **Portfólio:** [seu-site.com](https://seu-site.com)
-* **Email:** seu-email@exemplo.com
-
-> "Simplicidade é o último grau de sofisticação... mas um bom banco de dados normalizado também ajuda."
+* **Email:** arielcloss@gmail.com
