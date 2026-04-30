@@ -25,10 +25,10 @@ current_focus:
   - "Redes & Infraestrutura"
   - "DevOps & Automação"
 fuel: "Café ☕"
-philosophy: "Automatize tudo. Se não pode automatizar, documente. Se não pode documentar, cafete."
+philosophy: "Automatize tudo. Se não pode automatizar, documente. Se não pode documentar, faça um café e relaxe."
 ```
 
-Sou alguém vivendo na interseção entre **código, infraestrutura e automação**. Estudo no IFRO e faço estágio na FSLab dentro do campus — onde aprendo na prática como sistemas reais funcionam: do `yaml` ao deploy em produção, do `node` ao container em orquestração. Cada linha de código é um passo mais perto de dominar o caos dos sistemas distribuídos. Acredito que a melhor infraestrutura é aquela que ninguém percebe — porque simplesmente funciona.
+Sou alguém vivendo na vida entre **código, infraestrutura e automação**. Estudo no IFRO e faço estágio na FSLab dentro do campus — onde aprendo na prática como sistemas reais funcionam: do `yaml` ao deploy em produção, do `node` ao container em orquestração. Cada linha de código é um passo mais perto de dominar o caos dos sistemas distribuídos. Acredito que a melhor infraestrutura é aquela que ninguém percebe — porque simplesmente funciona.
 
 ---
 
@@ -48,7 +48,7 @@ const float = {
   frontend: ["HTML5", "CSS3", "JavaScript"],
   backend: ["Node.js", "Python"],
   automation: ["Ansible", "YAML", "Bash"],
-  currentlyLearning: "Full-stack com foco em DevOps",
+  currentlyLearning: "Full-stack com foco em sysadmin",
   funFact: "Meu primeiro 'deploy' foi um rsync pro servidor do lab"
 };
 ```
@@ -73,7 +73,7 @@ $ whoami
 
 $ cat /etc/motd
 > "Se funciona no meu container, funciona em qualquer lugar"
->   — Lei de Float da Infraestrutura
+>   - Lei de Float
 ```
 
 ---
@@ -121,16 +121,6 @@ $ cat /etc/motd
 
 ---
 
-### 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/floatingskies/floatingskies/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/floatingskies/floatingskies/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/floatingskies/floatingskies/blob/output/github-snake-dark.svg" />
-</picture>
-
----
-
 ### 📬 Vamos conversar
 
 <div align="center">
@@ -149,7 +139,7 @@ $ cat /etc/motd
 <br/><br/>
 
 > *"Qualquer tecnologia suficientemente avançada é indistinguível da magia."*
-> — Arthur C. Clarke
+> - Arthur C. Clarke
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:30363e&height=120&section=footer" />
 
