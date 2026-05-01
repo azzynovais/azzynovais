@@ -105,15 +105,6 @@ Porque ninguem faz nada em silencio no mundo:
 
 <div align="center">
 
-## Atividade no GitHub
-
-<!-- GitHub contribution snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azzynovais/azzynovais/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azzynovais/azzynovais/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/azzynovais/azzynovais/output/github-snake.svg" />
-</picture>
-
 <!-- Profile visitors counter (GitHub native, sem Vercel) -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=azzynovais&style=for-the-badge&color=6EC6A0)
 
