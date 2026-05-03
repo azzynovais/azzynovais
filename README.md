@@ -36,7 +36,7 @@ Administro e otimizo servidores e ambientes desktop, com foco em estabilidade e 
 ---
 
 ## 📊 Estatísticas do GitHub
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=dracula)
+![Azzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=azzynovais&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzynovais&layout=compact&theme=dracula)
 
 ---
