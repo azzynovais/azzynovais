@@ -1,115 +1,51 @@
-<div align="center">
+# 🚀 Software Architect | Full Stack Developer | SysAdmin
 
-<!-- ASCII Art Banner -->
-```
-    _   _   _   _   _     _   _   _   _  
-   / \ / \ / \ / \ / \   / \ / \ / \ / \ 
-  ( A | z | z | y |   ) ( N | o | v | a | i | s )
-   \_/ \_/ \_/ \_/ \_/   \_/ \_/ \_/ \_/ 
-```
+## 🧑‍💻 Sobre Mim
+Heya! Sou um arquiteto de software e desenvolvedor apaixonado por construir sistemas escaláveis, resilientes e eficientes. Minha expertise transita entre o design de soluções complexas e a gestão prática de infraestrutura Linux, sempre com um olhar atento à experiência do desenvolvedor e à qualidade de entrega.
 
-### `~/entusiasta-linux && desenvolvedor-fullstack`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6EC6A0&center=true&vCenter=true&multiline=true&width=600&height=60&lines=%22Se+n%C3%A3o+est%C3%A1+quebrado%2C+custom+at%C3%A9+quebrar%22;%22E+aprenda+a+consertar+quando+tudo+der+errado%22)](https://git.io/typing-svg)
+Além do código, sou um entusiasta de **saúde mental na tecnologia**, acreditando que mentes saudáveis produzem sistemas melhores.
 
 ---
 
-</div>
+## 🏗️ Arquitetura de Software & Desenvolvimento Web
+Minha abordagem foca em **Clean Architecture**, **Microservices** e **Event-Driven Design**.
 
-## Sobre Mim (ou melhor, meu Kernel)
-
-Sou um entusiasta por tecnologia que acredita que a liberdade começa na escolha. Minha base acadêmica está sendo forjada no **IFRO**, mas meu habitat natural é o **Linux Mint/ZorinOS** e outros Linux. A escolha sempre começa na pergunta: *"Por que nao mudar?"*
-
-- **OS:** Linux Mint (Cinnamon is life!)
-- **Filosofia:** Se nao esta quebrado, custom ate quebrar -- e aprenda a consertar quando tudo estiver dando errado.
-- **Comunidade:** Sempre envolvido com a galera do IFRO em projetos legais e o ecossistema Open Source em varias comunidades de Linux.
+* **Linguagens:** [Inserir suas linguagens, ex: JavaScript, TypeScript, Go, Python]
+* **Frontend:** React, Next.js, Vue.js.
+* **Backend:** Node.js, Spring Boot, APIs RESTful & GraphQL.
+* **Arquitetura:** Design Patterns, SOLID, DDD (Domain-Driven Design), Escalabilidade e Performance.
 
 ---
 
-## Minha Stack Tecnológica
+## 🐧 SysAdmin & Ecossistema Linux
+Administro e otimizo servidores e ambientes desktop, com foco em estabilidade e customização.
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### Engine (Backend)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Construindo APIs velozes com Node.js e automatizando tudo com Python.
-
-</td>
-<td align="center" width="50%">
-
-### Interface (Frontend)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-Interfaces reativas com React/Next.js e o minimalismo do JS puro quando necessario.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### Banco de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
-
-Onde guardo meus bits e gerencio bancos sem sofrer.
-
-</td>
-<td align="center" width="50%">
-
-### Infraestrutura & Redes
-
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-Projetando topologias e resolvendo tretas de rede.
-
-</td>
-</tr>
-</table>
+* **Debian/Ubuntu:** Foco em servidores, hardening, Docker, Kubernetes e CI/CD.
+* **Arch/Manjaro (BigLinux):** Experiência com derivados do Arch, otimização de kernel e customização de ambientes produtivos (KDE Plasma, scripts de automação).
+* **Automação:** Ansible, Shell Scripting e Terraform.
 
 ---
 
-## Meu Setup (Dev Environment)
+## 🧠 Saúde Mental & Bem-estar no Tech
+Acredito que a tecnologia deve servir aos humanos, e não o contrário. No meu perfil, você encontrará iniciativas e discussões sobre:
+* Prevenção de Burnout em equipes de engenharia.
+* Cultura de comunicação não-violenta e feedback construtivo.
+* Equilíbrio entre vida profissional e pessoal em regimes de home office.
 
-| Ferramenta | Uso |
-|:---:|:---|
-| **VS Code** | Editor principal (com os melhores plugins, claro) |
-| **Gedit** | Editor raiz para edicoes rapidas |
-| **Kate** | Editor raiz do KDE, poderoso e leve |
-| **Terminal** | Onde a magia acontece de verdade |
-
----
-
-## Programas de Audio e Video
-
-Porque ninguem faz nada em silencio no mundo:
-
-| Programa | Funcao |
-|:---:|:---|
-| **Strawberry** | Organizando a biblioteca local |
-| **Celluloid** | Player minimalista que funciona |
-| **VLC** | O canivete suico dos videos |
+> **"Code is easy. People are hard."** - Priorizo a empatia técnica tanto quanto a qualidade do código.
 
 ---
 
-<div align="center">
-
-<!-- Profile visitors counter (GitHub native, sem Vercel) -->
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=azzynovais&style=for-the-badge&color=6EC6A0)
+## 📊 Estatísticas do GitHub
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
 
 ---
 
-> *"Qualquer um pode usar o sistema. So os curiosos entendem como ele funciona."*
+## 📫 Conecte-se comigo
+* **LinkedIn:** [Seu Link]
+* **Portfolio:** [Seu Site]
+* **Email:** [Seu Email]
 
-</div>
+---
+*Feito com ☕ e focado em 🧘‍♂️*
